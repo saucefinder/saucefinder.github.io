@@ -1,5 +1,5 @@
 p {
-    color: gray;
+    color: black;
 }
 
 a {
@@ -8,5 +8,5 @@ a {
 body {
     font-size: 14px;
     color: red;
-	background-color: brown
+	background-color: lightgray
 }
