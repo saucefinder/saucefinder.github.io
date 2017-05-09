@@ -11,6 +11,7 @@ li a {
 	color: #000;
 	padding: 8px 16px;
 	text-decoration: none;
+	text-align:center
 }
 
 li a.active {
@@ -23,10 +24,16 @@ li a:hover:not(.active) {
     color: white;
 }
 
-p {
-    color: black;
-	background-color: white;
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p1 {
+    color: green;
+	background: white;
 	width: 200px;
+	text-align: center;
 }
 
 a {
@@ -35,8 +42,11 @@ a {
 
 body {
     font-size: 14px;
-    color: red;
+    color: black;
+	background-color: white;
 	background-image: url("images/pat.jpg");
-	background-repeat: no-repeat center center fixed;
+	background-repeat: no-repeat top center fixed;
 	background-size: cover;
+	text-align: center;
 }
+
